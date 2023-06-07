@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -paN1 --format=commas
+
